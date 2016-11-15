@@ -1,4 +1,4 @@
-## Learning Jekyll
+# Learning Jekyll
 
-#Resources
+## Resources
 http://jekyll.tips/jekyll-casts/install-jekyll-on-os-x/
